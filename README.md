@@ -6,7 +6,7 @@ Streamer e canal                                         | Idioma       | Tags
 [bellesamways](https://www.twitch.tv/bellesamways)       |              |
 [biaherculano](https://www.twitch.tv/biaherculano)       |              |
 [bug_elseif](https://www.twitch.tv/bug_elseif)           |              |
-[caaddss](https://www.twitch.tv/caaddss)                 |              |
+[caaddss](https://www.twitch.tv/caaddss), in memoriam    |              |
 [erikaheidi](https://www.twitch.tv/erikaheidi)           |              |
 [isabellacacelia](https://www.twitch.tv/isabellacacelia) |              |
 [isabellalealx](https://www.twitch.tv/isabellalealx)     |              |
