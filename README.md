@@ -13,7 +13,7 @@ Streamer e Canal                                                 | Pronomes     
 [jakeliny](https://www.twitch.tv/jakeliny)                       |              |
 [julialabs](https://www.twitch.tv/julialabs)                     |              |
 [leitoraincomum](https://www.twitch.tv/leitoraincomum)           |  ela, dela   | estudos, dev mob, back end, soft skills
-[leonadev](https://www.twitch.tv/leonadev)                       |              |
+[leonadev](https://www.twitch.tv/leonadev)                       |  ela, dela   | frontend, javascript, react
 [levxyca](https://www.twitch.tv/levxyca)                         |              |
 [little_yuuh](https://www.twitch.tv/little_yuuh)                 |              |
 [lysonjeada](https://www.twitch.tv/lysonjeada)                   |              |
