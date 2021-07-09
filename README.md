@@ -12,7 +12,7 @@ Streamer e Canal                                                 | Pronomes     
 [isabellalealx](https://www.twitch.tv/isabellalealx)             |              |
 [jakeliny](https://www.twitch.tv/jakeliny)                       |              |
 [julialabs](https://www.twitch.tv/julialabs)                     |              |
-[leitoraincomum](https://www.twitch.tv/leitoraincomum)           |              |
+[leitoraincomum](https://www.twitch.tv/leitoraincomum)           |  ela, dela   | estudos, dev mob, back end, soft skills
 [leonadev](https://www.twitch.tv/leonadev)                       |              |
 [levxyca](https://www.twitch.tv/levxyca)                         |              |
 [little_yuuh](https://www.twitch.tv/little_yuuh)                 |              |
