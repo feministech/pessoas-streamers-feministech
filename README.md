@@ -28,4 +28,4 @@ Streamer e Canal                                                 | Pronomes     
 [rafaballerinii](https://www.twitch.tv/rafaballerinii)           |              |
 [railanepassos](https://www.twitch.tv/railanepassos)             |              |
 [snittey](https://www.twitch.tv/snittey)                         |              |
-[xtecna](https://www.twitch.tv/xtecna)                           |              |
+[xtecna](https://www.twitch.tv/xtecna)                           | ela, dela    | algoritmos, c++, python, maratona
