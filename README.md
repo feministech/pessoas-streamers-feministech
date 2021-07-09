@@ -5,7 +5,7 @@ Streamer e Canal                                                 | Pronomes     
 ---------------------------------------------------------------- | ------------ | ----------------
 [bellesamways](https://www.twitch.tv/bellesamways)               |              |
 [biaherculano](https://www.twitch.tv/biaherculano)               |              |
-[bug_elseif](https://www.twitch.tv/bug_elseif)                   |              |
+[bug_elseif](https://www.twitch.tv/bug_elseif)                   | ela, dela    | python, dev web
 [caaddss](https://www.twitch.tv/caaddss), in memoriam :heart:    | ela, dela    | ciência de dados, python
 [erikaheidi](https://www.twitch.tv/erikaheidi)                   |              |
 [isabellacacelia](https://www.twitch.tv/isabellacacelia)         |              |
