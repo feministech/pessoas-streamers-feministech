@@ -8,7 +8,7 @@ Streamer e Canal                                                 | Pronomes     
 [bug_elseif](https://www.twitch.tv/bug_elseif)                   | ela, dela    | python, dev web
 [caaddss](https://www.twitch.tv/caaddss), in memoriam :heart:    | ela, dela    | ciência de dados, python
 [erikaheidi](https://www.twitch.tv/erikaheidi)                   |              |
-[isabellacacelia](https://www.twitch.tv/isabellacacelia)         |              |
+[isabellacacelia](https://www.twitch.tv/isabellacacelia)         | ela, dela    | html, css/sass, javascript, react, soft skills 
 [isabellalealx](https://www.twitch.tv/isabellalealx)             |              |
 [jakeliny](https://www.twitch.tv/jakeliny)                       |              |
 [julialabs](https://www.twitch.tv/julialabs)                     |              |
