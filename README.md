@@ -21,7 +21,7 @@ Streamer e Canal                                                 | Pronomes     
 [morgannadev](https://www.twitch.tv/morgannadev)                 | ela, dela    | backend, carreira, kotlin, soft skills
 [moniquelive](https://www.twitch.tv/moniquelive)                 |              |
 [nomadcodemist](https://www.twitch.tv/nomadcodemist)             |              |
-[pachicodes](https://www.twitch.tv/pachicodes)                   |              |
+[pachicodes](https://www.twitch.tv/pachicodes)                   | ela, dela    | front-end, devrel, vida, entreternimento
 [pixlrose](https://www.twitch.tv/pixlrose)                       |              |
 [punkdodevops](https://www.twitch.tv/punkdodevops)               |              |
 [purplepizza92](https://www.twitch.tv/purplepizza92)             |              |
