@@ -10,7 +10,7 @@ Streamer e Canal                                                 | Pronomes     
 [erikaheidi](https://www.twitch.tv/erikaheidi)                   |              |
 [isabellacacelia](https://www.twitch.tv/isabellacacelia)         | ela, dela    | html, css/sass, javascript, react, soft skills 
 [isabellalealx](https://www.twitch.tv/isabellalealx)             |              |
-[jakeliny](https://www.twitch.tv/jakeliny)                       |              |
+[jakeliny](https://www.twitch.tv/jakeliny)                       | ela, dela    | JavaScript, TypeScript, NodeJS, Carreira 
 [julialabs](https://www.twitch.tv/julialabs)                     |              |
 [leitoraincomum](https://www.twitch.tv/leitoraincomum)           |  ela, dela   | estudos, dev mob, back end, soft skills
 [leonadev](https://www.twitch.tv/leonadev)                       |  ela, dela   | frontend, javascript, react
