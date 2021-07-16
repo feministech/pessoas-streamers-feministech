@@ -16,7 +16,7 @@ Streamer e Canal                                                 | Pronomes     
 [leonadev](https://www.twitch.tv/leonadev)                       |  ela, dela   | frontend, javascript, react
 [levxyca](https://www.twitch.tv/levxyca)                         |  ela, dela   | front-end, bate-papo, entretenimento
 [little_yuuh](https://www.twitch.tv/little_yuuh)                 |              |
-[lysonjeada](https://www.twitch.tv/lysonjeada)                   |              |
+[lysonjeada](https://www.twitch.tv/lysonjeada)                   | ela, dela    | Mobile, Swift, Bate-papo, Jogos, Carreira         |
 [mmillecm](https://www.twitch.tv/mmillecm)                       |              |
 [morgannadev](https://www.twitch.tv/morgannadev)                 | ela, dela    | backend, carreira, kotlin, soft skills
 [moniquelive](https://www.twitch.tv/moniquelive)                 |              |
