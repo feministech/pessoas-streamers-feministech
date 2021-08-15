@@ -27,5 +27,5 @@ Streamer e Canal                                                 | Pronomes     
 [purplepizza92](https://www.twitch.tv/purplepizza92)             |              |
 [rafaballerinii](https://www.twitch.tv/rafaballerinii)           |              |
 [railanepassos](https://www.twitch.tv/railanepassos)             |              |
-[snittey](https://www.twitch.tv/snittey)                         |              |
+[snittey](https://www.twitch.tv/snittey)                         | ela, dela    | Python, Golang, Programação Competitiva
 [xtecna](https://www.twitch.tv/xtecna)                           | ela, dela    | algoritmos, c++, python, maratona
