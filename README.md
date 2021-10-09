@@ -29,3 +29,4 @@ Streamer e Canal                                                 | Pronomes     
 [railanepassos](https://www.twitch.tv/railanepassos)             |              |
 [snittey](https://www.twitch.tv/snittey)                         | ela, dela    | Python, Golang, Programação Competitiva
 [xtecna](https://www.twitch.tv/xtecna)                           | ela, dela    | algoritmos, c++, python, maratona
+[ehmuitodrama](https://www.twitch.tv/ehmuitodrama)               | ela, dela    | PHP, Ruby, carreira em TI, transição
