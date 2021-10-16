@@ -1,32 +1,32 @@
 # Pessoas streamers da nossa comunidade Feministech
 Repositório com as pessoas streamers da comunidade [Feministech](https://www.twitch.tv/team/livecodergirls) na Twitch.
 
-Streamer e Canal                                                 | Pronomes     | Tags
----------------------------------------------------------------- | ------------ | ----------------
-[bellesamways](https://www.twitch.tv/bellesamways)               |              |
-[biaherculano](https://www.twitch.tv/biaherculano)               |              |
-[bug_elseif](https://www.twitch.tv/bug_elseif)                   | ela, dela    | python, dev web
-[caaddss](https://www.twitch.tv/caaddss), in memoriam :heart:    | ela, dela    | ciência de dados, python
-[erikaheidi](https://www.twitch.tv/erikaheidi)                   |              |
-[isabellacacelia](https://www.twitch.tv/isabellacacelia)         | ela, dela    | html, css/sass, javascript, react, soft skills 
-[isabellalealx](https://www.twitch.tv/isabellalealx)             |              |
-[jakeliny](https://www.twitch.tv/jakeliny)                       | ela, dela    | JavaScript, TypeScript, NodeJS, Carreira 
-[julialabs](https://www.twitch.tv/julialabs)                     |              |
-[leitoraincomum](https://www.twitch.tv/leitoraincomum)           |  ela, dela   | estudos, dev mob, back end, soft skills
-[leonadev](https://www.twitch.tv/leonadev)                       |  ela, dela   | frontend, javascript, react
-[levxyca](https://www.twitch.tv/levxyca)                         |  ela, dela   | front-end, bate-papo, entretenimento
-[little_yuuh](https://www.twitch.tv/little_yuuh)                 |              |
-[lysonjeada](https://www.twitch.tv/lysonjeada)                   | ela, dela    | Mobile, Swift, Bate-papo, Jogos, Carreira         |
-[mmillecm](https://www.twitch.tv/mmillecm)                       |              |
-[morgannadev](https://www.twitch.tv/morgannadev)                 | ela, dela    | backend, carreira, kotlin, soft skills
-[moniquelive](https://www.twitch.tv/moniquelive)                 |              |
-[nomadcodemist](https://www.twitch.tv/nomadcodemist)             |              |
-[pachicodes](https://www.twitch.tv/pachicodes)                   | ela, dela    | front-end, devrel, vida, entreternimento
-[pixlrose](https://www.twitch.tv/pixlrose)                       |              |
-[punkdodevops](https://www.twitch.tv/punkdodevops)               |              |
-[purplepizza92](https://www.twitch.tv/purplepizza92)             |              |
-[rafaballerinii](https://www.twitch.tv/rafaballerinii)           |              |
-[railanepassos](https://www.twitch.tv/railanepassos)             |              |
-[snittey](https://www.twitch.tv/snittey)                         | ela, dela    | Python, Golang, Programação Competitiva
-[xtecna](https://www.twitch.tv/xtecna)                           | ela, dela    | algoritmos, c++, python, maratona
-[ehmuitodrama](https://www.twitch.tv/ehmuitodrama)               | ela, dela    | PHP, Ruby, carreira em TI, transição
+Streamer e Canal                                                 | Pronomes     | Tags              | Status
+---------------------------------------------------------------- | ------------ | ----------------  | ---------------
+[bellesamways](https://www.twitch.tv/bellesamways)               |              |                   | ![](https://img.shields.io/twitch/status/bellesamways?color=%238502BB&label=bellesamways&style=flat-square)
+[biaherculano](https://www.twitch.tv/biaherculano)               |              |                   | ![](https://img.shields.io/twitch/status/biaherculano?color=%238502BB&label=biaherculano&style=flat-square)
+[bug_elseif](https://www.twitch.tv/bug_elseif)                   | ela, dela    | python, dev web   | ![](https://img.shields.io/twitch/status/bug_elseif?color=%238502BB&label=bug_elseif&style=flat-square)
+[caaddss](https://www.twitch.tv/caaddss), in memoriam :heart:    | ela, dela    | ciência de dados, python | ![](https://img.shields.io/twitch/status/caaddss?color=%238502BB&label=caaddss&style=flat-square)
+[erikaheidi](https://www.twitch.tv/erikaheidi)                   |              |                   | ![](https://img.shields.io/twitch/status/erikaheidi?color=%238502BB&label=erikaheidi&style=flat-square)
+[isabellacacelia](https://www.twitch.tv/isabellacacelia)         | ela, dela    | html, css/sass, javascript, react, soft skills |![](https://img.shields.io/twitch/status/isabellacacelia?color=%238502BB&label=isabellacacelia&style=flat-square)
+[isabellalealx](https://www.twitch.tv/isabellalealx)             |              |                    | ![](https://img.shields.io/twitch/status/isabellalealx?color=%238502BB&label=isabellalealx&style=flat-square)
+[jakeliny](https://www.twitch.tv/jakeliny)                       | ela, dela    | JavaScript, TypeScript, NodeJS, Carreira |![](https://img.shields.io/twitch/status/jakeliny?color=%238502BB&label=jakeliny&style=flat-square)
+[julialabs](https://www.twitch.tv/julialabs)                     |  ela, dela   |                   | ![](https://img.shields.io/twitch/status/julialabs?color=%238502BB&label=julialabs&style=flat-square)
+[leitoraincomum](https://www.twitch.tv/leitoraincomum)           |  ela, dela   | estudos, dev mob, back end, soft skills | ![](https://img.shields.io/twitch/status/leitoraincomum?color=%238502BB&label=leitoraincomum&style=flat-square)
+[leonadev](https://www.twitch.tv/leonadev)                       |  ela, dela   | frontend, javascript, react          | ![](https://img.shields.io/twitch/status/leonadev?color=%238502BB&label=leonadev&style=flat-square)
+[levxyca](https://www.twitch.tv/levxyca)                         |  ela, dela   | front-end, bate-papo, entretenimento | ![](https://img.shields.io/twitch/status/levxyca?color=%238502BB&label=levxyca&style=flat-square)
+[little_yuuh](https://www.twitch.tv/little_yuuh)                 |              |                               | ![](https://img.shields.io/twitch/status/little_yuuh?color=%238502BB&label=little_yuuh&style=flat-square)
+[lysonjeada](https://www.twitch.tv/lysonjeada)                   | ela, dela    | Mobile, Swift, Bate-papo, Jogos, Carreira| ![](https://img.shields.io/twitch/status/lysonjeada?color=%238502BB&label=lysonjeada&style=flat-square)
+[mmillecm](https://www.twitch.tv/mmillecm)                       |              |                     | ![](https://img.shields.io/twitch/status/mmillecm?color=%238502BB&label=mmillecm&style=flat-square)
+[morgannadev](https://www.twitch.tv/morgannadev)                 | ela, dela    | backend, carreira, kotlin, soft skills | ![](https://img.shields.io/twitch/status/morgannadev?color=%238502BB&label=morgannadev&style=flat-square)
+[moniquelive](https://www.twitch.tv/moniquelive)                 |              |                    | ![](https://img.shields.io/twitch/status/moniquelive?color=%238502BB&label=moniquelive&style=flat-square)
+[nomadcodemist](https://www.twitch.tv/nomadcodemist)             |              |                    | ![](https://img.shields.io/twitch/status/nomadcodemist?color=%238502BB&label=nomadcodemist&style=flat-square)
+[pachicodes](https://www.twitch.tv/pachicodes)                   | ela, dela    | front-end, devrel, vida, entreternimento | ![](https://img.shields.io/twitch/status/pachicodes?color=%238502BB&label=pachicodes&style=flat-square)
+[pixlrose](https://www.twitch.tv/pixlrose)                       |              |                    | ![](https://img.shields.io/twitch/status/pixlrose?color=%238502BB&label=pixlrose&style=flat-square)
+[punkdodevops](https://www.twitch.tv/punkdodevops)               |              |                    | ![](https://img.shields.io/twitch/status/punkdodevops?color=%238502BB&label=punkdodevops&style=flat-square)
+[purplepizza92](https://www.twitch.tv/purplepizza92)             |              |                    | ![](https://img.shields.io/twitch/status/purplepizza92?color=%238502BB&label=purplepizza92&style=flat-square)
+[rafaballerinii](https://www.twitch.tv/rafaballerinii)           |              |                    | ![](https://img.shields.io/twitch/status/rafaballerinii?color=%238502BB&label=rafaballerinii&style=flat-square)
+[railanepassos](https://www.twitch.tv/railanepassos)             |              |                    | ![](https://img.shields.io/twitch/status/railanepassos?color=%238502BB&label=railanepassos&style=flat-square)
+[snittey](https://www.twitch.tv/snittey)                         | ela, dela    | Python, Golang, Programação Competitiva | ![](https://img.shields.io/twitch/status/snittey?color=%238502BB&label=snittey&style=flat-square)
+[xtecna](https://www.twitch.tv/xtecna)                           | ela, dela    | algoritmos, c++, python, maratona |![](https://img.shields.io/twitch/status/xtecna?color=%238502BB&label=xtecna&style=flat-square)
+[ehmuitodrama](https://www.twitch.tv/ehmuitodrama)               | ela, dela    | PHP, Ruby, carreira em TI, transição |![](https://img.shields.io/twitch/status/ehmuitodrama?color=%238502BB&label=ehmuitodrama&style=flat-square)
