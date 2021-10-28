@@ -3,7 +3,7 @@ Repositório com as pessoas streamers da comunidade [Feministech](https://www.tw
 
 Streamer e Canal                                                 | Pronomes     | Tags              | Status
 ---------------------------------------------------------------- | ------------ | ----------------  | ---------------
-[bug_elseif](https://www.twitch.tv/bug_elseif)                   | ela, dela    | python, dev web   | ![](https://img.shields.io/twitch/status/bug_elseif?color=%238502BB&label=bug_elseif&style=flat-square)
+[bug_elseif](https://www.twitch.tv/bug_elseif)                   | ela, dela    | ciência da computação, python   | ![](https://img.shields.io/twitch/status/bug_elseif?color=%238502BB&label=bug_elseif&style=flat-square)
 [caaddss](https://www.twitch.tv/caaddss), in memoriam :heart:    | ela, dela    | ciência de dados, python | ![](https://img.shields.io/twitch/status/caaddss?color=%238502BB&label=caaddss&style=flat-square)
 [julialabs](https://www.twitch.tv/julialabs)                     |  ela, dela   |                   | ![](https://img.shields.io/twitch/status/julialabs?color=%238502BB&label=julialabs&style=flat-square)
 [leitoraincomum](https://www.twitch.tv/leitoraincomum)           |  ela, dela   | estudos, dev mob, back end, soft skills | ![](https://img.shields.io/twitch/status/leitoraincomum?color=%238502BB&label=leitoraincomum&style=flat-square)
